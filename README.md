@@ -116,6 +116,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 ## ☁️ Certificates:
 ## 🌱 Project:
-### <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" alt="opencv" width="48" height="48"/> social-network 
-### <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" alt="opencv" width="48" height="48"/> e-commerce 
-### <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" alt="opencv" width="48" height="48"/> dev.to
+[![social-network](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/social "Go to Social Network")  
+[![e-commerce](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/e-cor "Go to E-commerce")  
+[![dev.to](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/dev.to "Go to Dev.to")
