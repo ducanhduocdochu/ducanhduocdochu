@@ -115,7 +115,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 <hr>
 
 ## ☁️ Certificates:
+
 ## 🌱 Project:
-| [![social-network](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/social "Go to Social Network") <br> Go to Social Network | [![e-commerce](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/e-cor "Go to E-commerce") <br> Go to E-commerce | [![dev.to](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/dev.to "Go to Dev.to") <br> Go to Dev.to |
+| [![Event-Driven AI Retrieval Platform on AWS & Kubernetes](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=00000)](https://github.com/ducanhduocdochu/EDARP "Go to Event-Driven AI Retrieval Platform on AWS & Kubernetes") <br> Go to Social Network 
+| [![On-Premises DevOps Platform](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/ODEP "Go to On-Premises DevOps Platform") <br> Go to E-commerce 
+
 |---|---|---|
 
