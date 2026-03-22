@@ -116,10 +116,23 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 ## ☁️ Certificates:
 
-## 🌱 Project:
-| [![Event-Driven AI Retrieval Platform on AWS & Kubernetes](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=00000)](https://github.com/ducanhduocdochu/EDARP "Go to Event-Driven AI Retrieval Platform on AWS & Kubernetes") <br> Go to Event-Driven AI Retrieval Platform on AWS & Kubernetes
+## 🌱 Projects
 
-| [![On-Premises DevOps Platform](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/ODEP "Go to On-Premises DevOps Platform") <br> Go to On-Premises DevOps Platform 
-
-|---|---|---|
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ducanhduocdochu/EDARP">
+        <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" width="80"/>
+        <br><b>Event-Driven AI Retrieval Platform</b>
+        <br>AWS & Kubernetes
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ducanhduocdochu/ODEP">
+        <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" width="80"/>
+        <br><b>On-Premises DevOps Platform</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
