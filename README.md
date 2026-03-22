@@ -126,31 +126,30 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="320">
       <a href="https://github.com/ducanhduocdochu/EDARP">
-        <img src="https://github.com/user-attachments/assets/14320907-41b2-42eb-8b86-41e7ff49c6d6" width="300"/>
+        <img src="https://github.com/user-attachments/assets/14320907-41b2-42eb-8b86-41e7ff49c6d6" width="280">
       </a>
     </td>
-    <td valign="middle" width="100%">
+    <td>
       <a href="https://github.com/ducanhduocdochu/EDARP"><b>Event-Driven AI Retrieval Platform</b></a>
       <br>
       AWS • Kubernetes • AI
     </td>
   </tr>
-
-  <tr><td colspan="2" height="24"></td></tr>
-
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td colspan="2" height="24"></td>
+  </tr>
+  <tr>
+    <td width="320">
       <a href="https://github.com/ducanhduocdochu/ODEP">
-        <img src="https://github.com/user-attachments/assets/14320907-41b2-42eb-8b86-41e7ff49c6d6" width="300"/>
+        <img src="https://github.com/user-attachments/assets/14320907-41b2-42eb-8b86-41e7ff49c6d6" width="280">
       </a>
     </td>
-    <td valign="middle" width="100%">
+    <td>
       <a href="https://github.com/ducanhduocdochu/ODEP"><b>On-Premises DevOps Platform</b></a>
       <br>
       K8s • GitOps • Observability
     </td>
   </tr>
 </table>
-
