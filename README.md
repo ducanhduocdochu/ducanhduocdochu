@@ -124,19 +124,22 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 ## 🌱 Projects
 
+## 🌱 Projects
+
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/ducanhduocdochu/EDARP">
-        <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" width="80"/>
+        <img src="https://via.placeholder.com/300x180.png?text=EDARP" width="300"/>
         <br><b>Event-Driven AI Retrieval Platform</b>
-        <br>AWS & Kubernetes
+        <br>AWS • Kubernetes • AI
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ducanhduocdochu/ODEP">
-        <img src="https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000" width="80"/>
+        <img width="1002" height="758" alt="image" src="https://github.com/user-attachments/assets/14320907-41b2-42eb-8b86-41e7ff49c6d6" />
         <br><b>On-Premises DevOps Platform</b>
+        <br>K8s • GitOps • Observability
       </a>
     </td>
   </tr>
