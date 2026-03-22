@@ -117,8 +117,9 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 ## ☁️ Certificates:
 
 ## 🌱 Project:
-| [![Event-Driven AI Retrieval Platform on AWS & Kubernetes](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=00000)](https://github.com/ducanhduocdochu/EDARP "Go to Event-Driven AI Retrieval Platform on AWS & Kubernetes") <br> Go to Social Network 
-| [![On-Premises DevOps Platform](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/ODEP "Go to On-Premises DevOps Platform") <br> Go to E-commerce 
+| [![Event-Driven AI Retrieval Platform on AWS & Kubernetes](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=00000)](https://github.com/ducanhduocdochu/EDARP "Go to Event-Driven AI Retrieval Platform on AWS & Kubernetes") <br> Go to Event-Driven AI Retrieval Platform on AWS & Kubernetes
+
+| [![On-Premises DevOps Platform](https://img.icons8.com/?size=100&id=6R735OAB4eCV&format=png&color=000000)](https://github.com/ducanhduocdochu/ODEP "Go to On-Premises DevOps Platform") <br> Go to On-Premises DevOps Platform 
 
 |---|---|---|
 
