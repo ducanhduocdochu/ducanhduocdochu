@@ -116,6 +116,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 ## ☁️ Certificates:
 
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)
+![CKA](https://img.shields.io/badge/Kubernetes-CKA-326CE5?logo=kubernetes&logoColor=white)
+![CKS](https://img.shields.io/badge/Kubernetes-CKS-326CE5?logo=kubernetes&logoColor=white)
+
 ## 🌱 Projects
 
 <table>
