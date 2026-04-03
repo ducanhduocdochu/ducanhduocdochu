@@ -128,7 +128,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
   <tr>
     <td width="320">
       <a href="https://github.com/ducanhduocdochu/EDARP">
-        <img src="https://github.com/user-attachments/assets/14320907-41b2-42eb-8b86-41e7ff49c6d6" width="280">
+        <img width="670" height="444" alt="image" src="https://github.com/user-attachments/assets/897788c4-21c4-490b-870c-38d938df32df" />
       </a>
     </td>
     <td>
