@@ -71,6 +71,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhduocdochu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ducanhduocdochu" width="100%"/>
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducanhduocdochu)](https://github.com/ducanhduocdochu/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=ducanhduocdochu&theme=dark&hide_border=true" alt="ducanhduocdochu's GitHub Stats" />
     </td>
     <td>
       <p align="center"> 
