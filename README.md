@@ -70,7 +70,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhduocdochu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ducanhduocdochu" width="100%"/>
       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducanhduocdochu&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducanhduocdochu)](https://github.com/ducanhduocdochu/github-readme-stats)
     </td>
     <td>
       <p align="center"> 
