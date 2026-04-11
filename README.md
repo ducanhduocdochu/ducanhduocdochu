@@ -13,7 +13,7 @@
   
   🔭 I’m currently working on **Updating...**
 
-  🌱 I’m currently learning **DevOps, DevSceOps, AWS**
+  🌱 I’m currently learning **DevOps, DevSecOps, AWS**
 
   ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
