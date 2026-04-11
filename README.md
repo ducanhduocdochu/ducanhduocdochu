@@ -1,5 +1,4 @@
 <img align="left" width="1000" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" />
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
 
 <h2 align="center">Hi guys👋, I'm DucAnhMoi</h2>
 <p align="center">
